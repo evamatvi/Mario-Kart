@@ -74,10 +74,3 @@ The application displays the races in which the character participated in an awa
 
 If the selected character has not participated in any ceremony, the application shows a message indicating that no records were found.
 
-## Conclusion
-
-This project helped me learn how to use PHP together with Oracle and SQL to build a complete web application connected to a database.
-
-At first, the project seemed difficult, especially because it involved several files, forms, database queries, and session management. However, as I progressed, I became more comfortable with PHP and understood better how the different parts of the application worked together.
-
-Overall, this project allowed me to reinforce my knowledge of PHP, HTML, CSS, SQL, and Oracle, while also gaining more confidence in developing database-driven web applications.
